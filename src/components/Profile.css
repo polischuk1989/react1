@@ -1,0 +1,7 @@
+.photo{
+  width: 200px;
+}
+.content{
+  grid-area: contents;
+  background-color: violet;
+}

@@ -1,0 +1,8 @@
+.img-logo{
+  width: 87px;
+}
+
+.header{
+  grid-area: head;
+  background-color: chartreuse;
+}
